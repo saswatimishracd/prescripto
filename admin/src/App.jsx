@@ -9,7 +9,7 @@ import AllAppointments from './pages/Admin/AllAppointments.jsx';
 import Dashboard from './pages/Admin/Dashboard.jsx';
 import AddDoctor from './pages/Admin/AddDoctor.jsx';
 import DoctorsList from './pages/Admin/DoctorsList.jsx';
-import { DoctorContext } from './context/DoctorContext.jsx';
+import { DoctorContext } from './context/doctorContext.jsx';
 import DoctorDashboard from './pages/Doctor/DoctorDashboard.jsx';
 import DoctorAppointments from './pages/Doctor/DoctorAppointments.jsx';
 import DoctorProfile from './pages/Doctor/DoctorProfile.jsx';

@@ -1,5 +1,5 @@
 import React from 'react'
-import { DoctorContext } from '../../context/DoctorContext'
+import { DoctorContext } from '../../context/doctorContext'
 import { useContext } from 'react'
 import { AppContext } from '../../context/AppContext'
 import { useEffect } from 'react'
