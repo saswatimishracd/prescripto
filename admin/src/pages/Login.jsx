@@ -3,7 +3,8 @@ import { assets } from '../assets/assets_admin/assets'
 import { AdminContext } from '../context/AdminContext'
 import axios from 'axios'
 import { toast } from 'react-toastify'
-import { DoctorContext } from '../context/doctorContext'
+import { DoctorContext } from '../context/DoctorContext'
+
 
 const Login = () => {
 
